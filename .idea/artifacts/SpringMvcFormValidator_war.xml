@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMvcFormValidator:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringMVCFormValidation.war">
+      <element id="artifact" artifact-name="SpringMvcFormValidator:war exploded" />
+    </root>
+  </artifact>
+</component>
